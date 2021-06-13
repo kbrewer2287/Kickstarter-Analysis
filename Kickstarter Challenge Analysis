@@ -1,0 +1,14 @@
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+-- Outcomes are most likely to be successful when the launch date is in the 3rd quarter of the year.
+-- The peak launch month is in May.
+
+- What can you conclude about the Outcomes based on Goals?
+-- The highest percentage of succesful outcomes are when the goal amount is less than $5000
+-- Another successful peak appears to be between $35,000 - $45,000.
+
+- What are some limitations of this dataset?
+-- There is not a lot of information about the demographics of the backers.  
+
+- What are some other possible tables and/or graphs that we could create?
+--  We could see if there is a correlation between the "Staff Pick" and the number of successful campaigns.
+--  We could also determine if there is a correlation between "Spotlight" and successful campaigns.
